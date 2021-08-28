@@ -6,6 +6,6 @@ This project is a thesis project by Kari Lovise Ness, all credits to the origina
 The original git is available at; https://github.com/kariln/Predictions-of-thermal-fields-in-additive-manufacturing
 
 
-The folder Abaqus includes all the necessary Abaqus files
+*The folder Abaqus includes all the necessary Abaqus files
 
-For more information regarding the project, you can refer to the thesis in the Thesis forlder
+*For more information regarding the project, you can refer to the thesis in the Thesis forlder
